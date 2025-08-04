@@ -1,4 +1,4 @@
-# GradedLab2# Profile Card App (GradedLab 02)
+# Profile Card App (GradedLab 02)
 
 ## Description
 This React app displays reusable profile cards using functional components, props, and JSX. Each card shows an image, name, job title, and a short bio or contact detail.
@@ -7,7 +7,7 @@ This React app displays reusable profile cards using functional components, prop
 
 1. **Move inside the project root:**
    ```bash
-   cd product-filtering
+   cd GradedLab2
    ```
 
 2. **Install dependencies:**
