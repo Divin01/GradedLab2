@@ -33,8 +33,8 @@ This React app displays reusable profile cards using functional components, prop
 
 - Reusable `ProfileCard` component
 - Displays two distinct profiles using props
-- Styled with CSS using a dodgerblue theme (My favorite color used on most of my project, you can check on my public repo if interested)
-- Follows Graded Lab 2 instructions for DSW02B1
+- Styled with CSS using a dodgerblue theme (My favorite color used on most of my project, you can check on my public repos if interested)
+- Follows All Graded Lab 2 instructions for DSW02B1
 
 ## Profiles
 
